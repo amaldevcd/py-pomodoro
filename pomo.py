@@ -11,7 +11,7 @@ if(s=='1'):
         chime.success()
         time.sleep(1)
 elif(s=='2'):
-    print("SETTINGS")
+    print("\n\nSETTINGS","\n\n1. Change work duration\n2. Change the short break duration\n3. Change the long break duration")
 
         
 
